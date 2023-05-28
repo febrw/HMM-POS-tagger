@@ -1,4 +1,4 @@
-# POS-tagging
+# Part Of Speech tagging using Hidden Markov Models
 
 Hidden Markov Model based Part of Speech tagger using the Viterbi Algorithm, implemented in Python. We have experimented with affix substitutions during preprocessing, retaining any positive rules. Rules for English, French, and Ukrainian can be found in preprocessor.py. Core implementation can be found in pos-tagger.py.
 
